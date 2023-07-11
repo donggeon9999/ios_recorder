@@ -6,9 +6,9 @@
 - the simplest audio recording API in iOS 인 AVAudioRecorder를 이용.
 (https://developer.apple.com/documentation/avfaudio/avaudiorecorder)
 
-- 해당 recorder의 setting 값을 직접 변경하여 실험(16000 Sample Rate, 4 channel)
+- Source 파일의 AGAudioRecorder class의 setupRecorder() 함수에서 해당 recorder의 setting 값을 직접 변경하여 실험(16000 Sample Rate, 4 channel) 
+ ![스크린샷 2023-07-11 오후 2 04 03](https://github.com/donggeon9999/ios_recorder/assets/75352014/57fa15d7-dbef-4c0b-9e6f-9c0b95065064)
 
-- ![스크린샷 2023-07-11 오후 2 04 03](https://github.com/donggeon9999/ios_recorder/assets/75352014/57fa15d7-dbef-4c0b-9e6f-9c0b95065064)
 
 - 실시간 각 채널 별 음성 변화 값을 좌측 상단에 progress bar 로 표현하고자 했으나 아직 구현 x
 
