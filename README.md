@@ -29,7 +29,8 @@
 
 ## 녹음 종료 후 파일 전송
 
-![IMG_558F68CFBC7F-1](https://github.com/donggeon9999/ios_recorder/assets/75352014/a3963815-faff-422c-99c7-ef712fcc3fc7)
+![IMG_6EBBFFD0D170-1](https://github.com/donggeon9999/ios_recorder/assets/75352014/f4c41215-62c4-4432-a47f-d77061e3df50)
+
 
 
 ## 녹음 파일 분석 결과
